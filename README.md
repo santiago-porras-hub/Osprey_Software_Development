@@ -46,3 +46,9 @@
 ## DIAGRAMA DE CASO DE COMPONENTES
 ![Proyecto final  - Diagrama de componentes](https://user-images.githubusercontent.com/79175944/112741041-a0e8e680-8f47-11eb-8787-2d4d26f0cfea.png)
 
+## DIAGRAMA DE CASO DE USO
+![DIAGRAMA CASO DE USO1](https://user-images.githubusercontent.com/79175944/112741861-d34a1200-8f4e-11eb-80fa-cb4864e9b09d.JPG)
+![DIAGRAMA DE CASO DE USO 2](https://user-images.githubusercontent.com/79175944/112741864-d80ec600-8f4e-11eb-967e-1ad726d2cbf8.JPG)
+![DIAGRAMAD DE CASO DE USO 3](https://user-images.githubusercontent.com/79175944/112741868-dba24d00-8f4e-11eb-8b58-e6cec1d56783.JPG)
+
+
