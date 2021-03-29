@@ -50,8 +50,9 @@
 ![DIAGRAMA CASO DE USO1](https://user-images.githubusercontent.com/79175944/112741861-d34a1200-8f4e-11eb-80fa-cb4864e9b09d.JPG)
 ![DIAGRAMA DE CASO DE USO 2](https://user-images.githubusercontent.com/79175944/112741864-d80ec600-8f4e-11eb-967e-1ad726d2cbf8.JPG)
 ![DIAGRAMAD DE CASO DE USO 3](https://user-images.githubusercontent.com/79175944/112741868-dba24d00-8f4e-11eb-8b58-e6cec1d56783.JPG)
+## Mockups o prototipos de pantalla de la aplicación web.
 ![Proyecto final  - MOCK UP (1)](https://user-images.githubusercontent.com/79175944/112909628-728a1900-90b7-11eb-8fdc-8a2dfa2be773.png)
 
-## Mockups o prototipos de pantalla de la aplicación web.
+
 
 
