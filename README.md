@@ -53,6 +53,7 @@
 ## Mockups o prototipos de pantalla de la aplicación web.
 ![Proyecto final  - MOCK UP (1)](https://user-images.githubusercontent.com/79175944/112909628-728a1900-90b7-11eb-8fdc-8a2dfa2be773.png)
 
+##Modelo de datos
 
 
 
